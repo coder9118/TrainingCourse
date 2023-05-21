@@ -5,6 +5,4 @@ export default function App() {
         <Navbar theme="dark"/>
     );
 }
-
-
 // props

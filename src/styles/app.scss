@@ -1,7 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 
-h1{
-
-color:red;
+main.dark{
+  background: black;
+  min-height: 100vh;
+}
+main.light{
+  background: white;
+  min-height: 100vh;
 }

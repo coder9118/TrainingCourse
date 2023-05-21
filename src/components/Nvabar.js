@@ -1,4 +1,5 @@
 export default function Navbar(props) {
+
     return (
         // button onclikc=
         <nav className={"navbar navbar-expand-lg " + `navbar-${props.theme} ` + `bg-${props.theme}`}>
